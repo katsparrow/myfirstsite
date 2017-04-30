@@ -17,7 +17,8 @@ h2 {
     text-decoration: underline;
 }
 .corgi{
-    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
     background-image: url(http://wallpaper-gallery.net/images/corgi-puppy-wallpaper/corgi-puppy-wallpaper-18.jpg);
 }
 .corgi__title {
